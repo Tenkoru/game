@@ -1,0 +1,44 @@
+{"frames": {
+
+"fighter.png":
+{
+	"frame": {"x":26,"y":0,"w":26,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":37},
+	"sourceSize": {"w":26,"h":37}
+},
+"grass.png":
+{
+	"frame": {"x":0,"y":102,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"knight.png":
+{
+	"frame": {"x":0,"y":0,"w":26,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":38},
+	"sourceSize": {"w":26,"h":38}
+},
+"sideGrass.png":
+{
+	"frame": {"x":0,"y":38,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":166},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:34e3c3baa95c641a4f562eb5c4820b54:c5a925def6c1ee56e27a7095176753df:68d88b3cf7eafc9b5accfffdfb2fda91$"
+}
+}
